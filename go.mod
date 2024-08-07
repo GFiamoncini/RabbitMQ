@@ -1,4 +1,4 @@
-module events
+module github.com/GFiamoncini/RabbitMQ
 
 go 1.22.5
 

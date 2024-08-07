@@ -1,7 +1,7 @@
 package main
 
 import (
-	"events/pkg/rabbitmq"
+	"github.com/GFiamoncini/RabbitMQ/pkg/rabbitmq"
 	"fmt"
 
 	amqp "github.com/rabbitmq/amqp091-go"

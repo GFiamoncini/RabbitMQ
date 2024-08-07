@@ -1,7 +1,7 @@
 package main
 
 import (
-	"events/pkg/rabbitmq"
+	"github.com/GFiamoncini/RabbitMQ/pkg/rabbitmq"
 )
 
 func main() {
