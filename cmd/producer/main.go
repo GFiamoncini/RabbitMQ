@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Eventos/pkg/rabbitmq"
+	"events/pkg/rabbitmq"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module Eventos
+module events
 
 go 1.22.5
 
